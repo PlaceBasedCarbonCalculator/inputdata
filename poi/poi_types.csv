@@ -1,0 +1,600 @@
+groupname,categoryname,classname,count,workplace,measure_access
+"Accommodation, Eating and Drinking",Accommodation,Timeshare,28,FALSE,FALSE
+"Accommodation, Eating and Drinking",Accommodation,Hostels and Refuges For The Homeless,705,FALSE,TRUE
+"Accommodation, Eating and Drinking",Accommodation,Youth Accommodation,1137,TRUE,TRUE
+"Accommodation, Eating and Drinking",Accommodation,Self Catering,4580,FALSE,TRUE
+"Accommodation, Eating and Drinking",Accommodation,Bed and Breakfast and Backpacker Accommodation,7396,TRUE,TRUE
+"Accommodation, Eating and Drinking",Accommodation,"Hotels, Motels, Country Houses and Inns",9436,TRUE,TRUE
+"Accommodation, Eating and Drinking",Accommodation,"Camping, Caravanning, Mobile Homes, Holiday Parks and Centres",9702,TRUE,TRUE
+"Accommodation, Eating and Drinking",Eating and Drinking,Internet Cafes,331,TRUE,TRUE
+"Accommodation, Eating and Drinking",Eating and Drinking,Fast Food Delivery Services,1603,TRUE,TRUE
+"Accommodation, Eating and Drinking",Eating and Drinking,Banqueting and Function Rooms,2140,TRUE,TRUE
+"Accommodation, Eating and Drinking",Eating and Drinking,Fish and Chip Shops,11441,TRUE,TRUE
+"Accommodation, Eating and Drinking",Eating and Drinking,"Cafes, Snack Bars and Tea Rooms",38207,TRUE,TRUE
+"Accommodation, Eating and Drinking",Eating and Drinking,Restaurants,43518,TRUE,TRUE
+"Accommodation, Eating and Drinking",Eating and Drinking,"Pubs, Bars and Inns",43991,TRUE,TRUE
+"Accommodation, Eating and Drinking",Eating and Drinking,Fast Food and Takeaway Outlets,56589,TRUE,TRUE
+Attractions,Bodies Of Water,"Tarns, Pools and Meres",941,FALSE,FALSE
+Attractions,Bodies Of Water,Lochs and Lochans,9800,FALSE,FALSE
+Attractions,Bodies Of Water,Reservoirs,10436,FALSE,FALSE
+Attractions,Bodies Of Water,Lakes and Waters,11016,FALSE,FALSE
+Attractions,Botanical and Zoological,Butterfly Farms,7,TRUE,FALSE
+Attractions,Botanical and Zoological,Aquaria and Sea Life Centres,40,TRUE,TRUE
+Attractions,Botanical and Zoological,Farm Based Attractions,128,TRUE,TRUE
+Attractions,Botanical and Zoological,Salmon Ladders,165,FALSE,FALSE
+Attractions,Botanical and Zoological,Zoos and Animal Collections,445,TRUE,TRUE
+Attractions,Botanical and Zoological,"Bird Reserves, Collections and Sanctuaries",506,FALSE,TRUE
+Attractions,Botanical and Zoological,Horticultural Attractions,1771,TRUE,TRUE
+Attractions,Historical and Cultural,Historical Ships,16,FALSE,FALSE
+Attractions,Historical and Cultural,Battlefields,101,FALSE,FALSE
+Attractions,Historical and Cultural,Museums,1390,TRUE,TRUE
+Attractions,Historical and Cultural,Art Galleries,1821,TRUE,TRUE
+Attractions,Historical and Cultural,"Historic Buildings Including Castles, Forts and Abbeys",9621,FALSE,TRUE
+Attractions,Historical and Cultural,Archaeological Sites,30538,FALSE,TRUE
+Attractions,Historical and Cultural,Historic and Ceremonial Structures,32719,FALSE,TRUE
+Attractions,Landscape Features,Trigonometric Points,6108,FALSE,FALSE
+Attractions,Landscape Features,Designated Scenic Features,19791,FALSE,TRUE
+Attractions,Recreational,Municipal Parks and Gardens,26,FALSE,TRUE
+Attractions,Recreational,Country and National Parks,695,FALSE,TRUE
+Attractions,Recreational,Picnic Areas,802,FALSE,TRUE
+Attractions,Recreational,Commons,5012,FALSE,TRUE
+Attractions,Recreational,Playgrounds,42099,FALSE,TRUE
+Attractions,Tourism,Model Villages,11,TRUE,FALSE
+Attractions,Tourism,Theme and Adventure Parks,99,TRUE,TRUE
+Attractions,Tourism,"Laseria, Observatories and Planetaria",223,TRUE,TRUE
+Attractions,Tourism,"Railways (Heritage, Steam and Miniature)",558,TRUE,TRUE
+Attractions,Tourism,Information Centres,762,TRUE,TRUE
+Attractions,Tourism,"Siteseeing, Tours, Viewing and Visitor Centres",1057,TRUE,TRUE
+Attractions,Tourism,Unspecified and Other Attractions,14370,TRUE,TRUE
+Commercial Services,Construction Services,Diving Services,45,TRUE,FALSE
+Commercial Services,Construction Services,Pool and Court Construction,365,TRUE,TRUE
+Commercial Services,Construction Services,Construction Plant,393,TRUE,TRUE
+Commercial Services,Construction Services,Demolition Services,414,TRUE,TRUE
+Commercial Services,Construction Services,Building and Component Suppliers,695,TRUE,TRUE
+Commercial Services,Construction Services,"Cutting, Drilling  and Welding Services",1141,TRUE,TRUE
+Commercial Services,Construction Services,Metalworkers Including Blacksmiths,1706,TRUE,TRUE
+Commercial Services,Construction Services,Restoration and Preservation Services,1869,TRUE,TRUE
+Commercial Services,Construction Services,Fencing and Drystone Walling Services,2103,TRUE,TRUE
+Commercial Services,Construction Services,Road Construction Services,2742,TRUE,TRUE
+Commercial Services,Construction Services,Plasterers,4366,TRUE,TRUE
+Commercial Services,Construction Services,Glaziers,5203,TRUE,TRUE
+Commercial Services,Construction Services,Construction Completion Services,6078,TRUE,TRUE
+Commercial Services,Construction Services,Roofing and Chimney Services,7883,TRUE,TRUE
+Commercial Services,Construction Services,"Gardening, Landscaping and Tree Surgery Services",8836,TRUE,TRUE
+Commercial Services,Construction Services,Painting and Decorating Services,9926,TRUE,TRUE
+Commercial Services,Construction Services,Electrical Contractors,13572,TRUE,TRUE
+Commercial Services,Construction Services,Plumbing and Heating Services,21622,TRUE,TRUE
+Commercial Services,Construction Services,Building Contractors,35154,TRUE,TRUE
+Commercial Services,Consultancies,Food Consultants,116,TRUE,TRUE
+Commercial Services,Consultancies,Construction Service Consultants,407,TRUE,TRUE
+Commercial Services,Consultancies,Telecommunications Consultants,608,TRUE,TRUE
+Commercial Services,Consultancies,Traffic Management and Transport Related Consultants,679,TRUE,TRUE
+Commercial Services,Consultancies,Interpretation and Translation Consultants,886,TRUE,TRUE
+Commercial Services,Consultancies,"Feng Shui Consultants, Furnishers and Shop Fitters",1303,TRUE,TRUE
+Commercial Services,Consultancies,Image Consultants,2214,TRUE,TRUE
+Commercial Services,Consultancies,Computer Consultants,3230,TRUE,TRUE
+Commercial Services,Consultancies,Security Consultants,3390,TRUE,TRUE
+Commercial Services,Consultancies,Business Related Consultants,10582,TRUE,TRUE
+Commercial Services,Consultancies,Architectural and Building Related Consultants,12088,TRUE,TRUE
+Commercial Services,Contract Services,Display and Window Dressers,110,TRUE,TRUE
+Commercial Services,Contract Services,Aircraft Charters,139,TRUE,TRUE
+Commercial Services,Contract Services,Packers,258,TRUE,TRUE
+Commercial Services,Contract Services,Linen Hire and Washroom Services,301,TRUE,TRUE
+Commercial Services,Contract Services,Drain and Sewage Clearance,969,TRUE,TRUE
+Commercial Services,Contract Services,Office Services,1291,TRUE,TRUE
+Commercial Services,Contract Services,Pest and Vermin Control,1642,TRUE,TRUE
+Commercial Services,Contract Services,Agricultural Contractors,2855,TRUE,TRUE
+Commercial Services,Contract Services,Catering Services,4288,TRUE,TRUE
+Commercial Services,Contract Services,Contract Cleaning Services,4897,TRUE,TRUE
+Commercial Services,Employment and Career Agencies,Modelling and Theatrical Agencies,259,TRUE,TRUE
+Commercial Services,Employment and Career Agencies,Driver Agencies,297,TRUE,TRUE
+Commercial Services,Employment and Career Agencies,Careers Offices and Armed Forces Recruitment,536,TRUE,TRUE
+Commercial Services,Employment and Career Agencies,Nursing Agencies,619,TRUE,TRUE
+Commercial Services,Employment and Career Agencies,Domestic Staff and Home Help,5109,TRUE,TRUE
+Commercial Services,Employment and Career Agencies,Employment Agencies,11052,TRUE,TRUE
+Commercial Services,Engineering Services,Chemical Engineers,44,TRUE,FALSE
+Commercial Services,Engineering Services,Pneumatic Engineers,45,TRUE,FALSE
+Commercial Services,Engineering Services,Instrumentation Engineers,160,TRUE,FALSE
+Commercial Services,Engineering Services,Hydraulic Engineers,259,TRUE,FALSE
+Commercial Services,Engineering Services,Aviation Engineers,293,TRUE,FALSE
+Commercial Services,Engineering Services,Structural Engineers,780,TRUE,FALSE
+Commercial Services,Engineering Services,Mechanical Engineers,811,TRUE,FALSE
+Commercial Services,Engineering Services,Marine Engineers and Services,997,TRUE,FALSE
+Commercial Services,Engineering Services,Electrical and Electronic Engineers,1570,TRUE,TRUE
+Commercial Services,Engineering Services,Precision Engineers,2510,TRUE,TRUE
+Commercial Services,Engineering Services,Industrial Engineers,2808,TRUE,TRUE
+Commercial Services,Engineering Services,Civil Engineers,4086,TRUE,TRUE
+Commercial Services,Hire Services,Renting and Leasing Of Personal and Household Goods,160,TRUE,TRUE
+Commercial Services,Hire Services,Boat Hiring Services,279,TRUE,TRUE
+Commercial Services,Hire Services,Leisure Equipment Hirings,596,TRUE,TRUE
+Commercial Services,Hire Services,Bouncy Castles and Inflatables Hire,750,TRUE,TRUE
+Commercial Services,Hire Services,Clothing Hire,778,TRUE,TRUE
+Commercial Services,Hire Services,"Sound, Light and Vision Service and Equipment Hire",870,TRUE,TRUE
+Commercial Services,Hire Services,Vehicle Hire and Rental,7529,TRUE,TRUE
+Commercial Services,Hire Services,Construction and Tool Hire,7999,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services",Desktop Publishing Services,9,TRUE,FALSE
+Commercial Services,"It, Advertising, Marketing and Media Services",Press and Journalism Services,152,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services",Printing and Photocopying Services,226,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services",Electronic and Internet Publishers,253,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services",Computer Security,337,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services","Telephone, Telex and Fax Services",417,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services",Database Services,538,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services",General Computer Services,580,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services",Television and Radio Services,822,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services","Plate Makers, Print Finishers and Type Setters",915,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services",Literary Services,989,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services",Recording Studios and Record Companies,1128,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services",Concert/Exhibition Organisers and Services,1297,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services",Advertising Services,2787,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services",Film and Video Services,3478,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services",Mailing and Other Information Services,4270,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services",Marketing Services,5542,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services","Artists, Illustrators and Calligraphers",6218,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services",Internet Services,7431,TRUE,TRUE
+Commercial Services,"It, Advertising, Marketing and Media Services",Computer Systems Services,16399,TRUE,TRUE
+Commercial Services,Legal and Financial,Credit Reference Agencies,59,TRUE,FALSE
+Commercial Services,Legal and Financial,Cheque Cashing,95,TRUE,FALSE
+Commercial Services,Legal and Financial,Commodity Dealers,162,TRUE,TRUE
+Commercial Services,Legal and Financial,Copyright and Patent,163,TRUE,TRUE
+Commercial Services,Legal and Financial,"Stocks, Shares and Unit Trusts",164,TRUE,TRUE
+Commercial Services,Legal and Financial,Company Registration and Trademarks,236,TRUE,TRUE
+Commercial Services,Legal and Financial,Franchise and Holding Company Services,275,TRUE,TRUE
+Commercial Services,Legal and Financial,Pension and Fund Management,326,TRUE,TRUE
+Commercial Services,Legal and Financial,Debt Collecting Agencies,530,TRUE,TRUE
+Commercial Services,Legal and Financial,Fundraising Services,674,TRUE,TRUE
+Commercial Services,Legal and Financial,"Auctioneers, Auction Rooms and Valuers",826,TRUE,TRUE
+Commercial Services,Legal and Financial,Pawnbrokers,1280,TRUE,TRUE
+Commercial Services,Legal and Financial,Currency Conversion and Money Transfers,2115,TRUE,TRUE
+Commercial Services,Legal and Financial,Mortgage and Financial Lenders,4822,TRUE,TRUE
+Commercial Services,Legal and Financial,Insurers and Support Activities,5919,TRUE,TRUE
+Commercial Services,Legal and Financial,Banks and Building Societies,8718,TRUE,TRUE
+Commercial Services,Legal and Financial,Financial Advice Services,11716,TRUE,TRUE
+Commercial Services,Legal and Financial,"Solicitors, Advocates and Notaries Public",13286,TRUE,TRUE
+Commercial Services,Legal and Financial,Accountants and Auditors,16613,TRUE,TRUE
+Commercial Services,Legal and Financial,Paypoint Locations,26963,FALSE,TRUE
+Commercial Services,Legal and Financial,Cash Machines,43664,FALSE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Message and Greeting Services,16,TRUE,FALSE
+Commercial Services,"Personal, Consumer and Other Services",Weather Services,21,TRUE,FALSE
+Commercial Services,"Personal, Consumer and Other Services",Adult Services,29,TRUE,FALSE
+Commercial Services,"Personal, Consumer and Other Services",Printing On Garments,33,TRUE,FALSE
+Commercial Services,"Personal, Consumer and Other Services",Motoring Organisations,53,TRUE,FALSE
+Commercial Services,"Personal, Consumer and Other Services",Cv Writers,64,TRUE,FALSE
+Commercial Services,"Personal, Consumer and Other Services",Hotel Booking Agencies,112,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Customer Service Centres,184,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Event Ticket Agents and Box Office,188,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Sewage Services,188,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Sports Services,275,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Introduction and Dating Agencies,299,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Historical Research,300,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services","Astrologers, Clairvoyants and Palmists",390,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Party Organisers,468,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Trophies and Engraving Services,637,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services","Musicians, Orchestras and Composers",703,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Personalisation,1045,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Vehicle Breakdown and Recovery Services,1286,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services","Sculptors, Wood Workers and Stone Masons",1744,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Detective and Investigation Agencies,1745,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Spas,1775,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Tailoring and Clothing Alteration,2395,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Window Cleaners,2623,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Wedding Services,2986,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Vehicle Cleaning Services,4578,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Tattooing and Piercing Services,4766,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Slimming Clubs and Services,4836,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services","Lock, Key and Security Services",6049,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Funeral and Associated Services,7081,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Photographic Services,8372,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services","Headquarters, Administration and Central Offices",11806,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Cleaning Services,14247,TRUE,TRUE
+Commercial Services,"Personal, Consumer and Other Services",Hair and Beauty Services,89564,TRUE,TRUE
+Commercial Services,Property and Development Services,Commercial Property Letting,1549,TRUE,TRUE
+Commercial Services,Property and Development Services,Property Information Services,5112,TRUE,TRUE
+Commercial Services,Property and Development Services,Property Development Services,5226,TRUE,TRUE
+Commercial Services,Property and Development Services,Property Letting,7135,TRUE,TRUE
+Commercial Services,Property and Development Services,Estate and Property Management,9356,TRUE,TRUE
+Commercial Services,Property and Development Services,Property Sales,19150,TRUE,TRUE
+Commercial Services,Recycling Services,Waste Paper Merchants,23,TRUE,FALSE
+Commercial Services,Recycling Services,Rag Merchants,122,TRUE,TRUE
+Commercial Services,Recycling Services,Clearance and Salvage Dealers,1124,TRUE,TRUE
+Commercial Services,Recycling Services,Scrap Metal Dealers and Breakers Yards,1906,TRUE,TRUE
+Commercial Services,Recycling Services,"Recycling, Reclamation and Disposal",2447,TRUE,TRUE
+Commercial Services,Repair and Servicing,Tool Repairs,136,TRUE,TRUE
+Commercial Services,Repair and Servicing,Service Industry Equipment Repairs,253,TRUE,TRUE
+Commercial Services,Repair and Servicing,Sports and Leisure Equipment Repair,957,TRUE,TRUE
+Commercial Services,Repair and Servicing,Household Repairs and Restoration,1337,TRUE,TRUE
+Commercial Services,Repair and Servicing,Shoe Repairs,2387,TRUE,TRUE
+Commercial Services,Repair and Servicing,Industrial Repairs and Servicing,2588,TRUE,TRUE
+Commercial Services,Repair and Servicing,Building Repairs,6086,TRUE,TRUE
+Commercial Services,Repair and Servicing,Electrical Equipment Repair and Servicing,7004,TRUE,TRUE
+Commercial Services,Repair and Servicing,"Vehicle Repair, Testing and Servicing",43112,TRUE,TRUE
+Commercial Services,Research and Design,Research Services,677,TRUE,TRUE
+Commercial Services,Research and Design,Testing and Analysis Services,1271,TRUE,TRUE
+Commercial Services,Research and Design,Design Services,21938,TRUE,TRUE
+Commercial Services,"Transport, Storage and Delivery",Ferry and Cruise Companies,122,TRUE,FALSE
+Commercial Services,"Transport, Storage and Delivery",Railway Related Services,182,TRUE,FALSE
+Commercial Services,"Transport, Storage and Delivery",Animal Transportation,303,TRUE,FALSE
+Commercial Services,"Transport, Storage and Delivery",Airlines and Airline Services,1594,TRUE,FALSE
+Commercial Services,"Transport, Storage and Delivery",Import and Export Services,1875,TRUE,TRUE
+Commercial Services,"Transport, Storage and Delivery",Container and Storage,3456,TRUE,TRUE
+Commercial Services,"Transport, Storage and Delivery",Removals and Shipping Agents,4105,TRUE,TRUE
+Commercial Services,"Transport, Storage and Delivery","Courier, Delivery and Messenger",5429,TRUE,TRUE
+Commercial Services,"Transport, Storage and Delivery",Taxi Services,9053,TRUE,TRUE
+Commercial Services,"Transport, Storage and Delivery",Distribution and Haulage,9850,TRUE,TRUE
+Education and Health,Animal Welfare,Veterinary Pharmacies,86,TRUE,FALSE
+Education and Health,Animal Welfare,Pet Cemeteries and Crematoria,95,TRUE,FALSE
+Education and Health,Animal Welfare,Horse Training,263,TRUE,TRUE
+Education and Health,Animal Welfare,Dog Training,597,TRUE,TRUE
+Education and Health,Animal Welfare,Kennels and Catteries,2614,TRUE,TRUE
+Education and Health,Animal Welfare,Animal Clipping and Grooming,3150,TRUE,TRUE
+Education and Health,Animal Welfare,Veterinarians and Animal Hospitals,5087,TRUE,TRUE
+Education and Health,Education Support Services,Secure Units,19,TRUE,FALSE
+Education and Health,Education Support Services,Examination Boards,37,TRUE,FALSE
+Education and Health,Education Support Services,Education Authorities,135,TRUE,FALSE
+Education and Health,Education Support Services,Education Services,3290,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Midwifery,26,TRUE,FALSE
+Education and Health,Health Practitioners and Establishments,Walk-In Centre,57,TRUE,FALSE
+Education and Health,Health Practitioners and Establishments,Dental and Medical Laboratories,101,TRUE,FALSE
+Education and Health,Health Practitioners and Establishments,Parenting and Childcare Services,155,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Speech Therapists,159,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Accident and Emergency Hospitals,273,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Hospices,295,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Homeopaths,366,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Dieticians and Nutritionists,731,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Surgeons and Cosmetic Surgeries,834,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Dental Technicians,1159,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Hospitals,1296,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Day and Care Centres,1914,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Mental Health Centres and Practitioners,3219,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Foot Related Services,3264,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Physical Therapy,7613,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,"Alternative, Natural and Complementary",8045,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Optometrists and Opticians,8185,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Doctors Surgeries,10009,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Dental Surgeries,10157,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Clinics and Health Centres,10250,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Chemists and Pharmacies,13131,TRUE,TRUE
+Education and Health,Health Practitioners and Establishments,Nursing and Residential Care Homes,20753,TRUE,TRUE
+Education and Health,Health Support Services,X-Ray Services,25,TRUE,FALSE
+Education and Health,Health Support Services,Medical Waste Disposal Services,50,TRUE,FALSE
+Education and Health,Health Support Services,Blood Transfusion Service,61,TRUE,FALSE
+Education and Health,Health Support Services,Pregnancy Related Services and Help Centres,244,TRUE,TRUE
+Education and Health,Health Support Services,Health Authorities,516,TRUE,TRUE
+Education and Health,Health Support Services,Medical Equipment Rental and Leasing,773,TRUE,TRUE
+Education and Health,Health Support Services,Ambulance and Medical Transportation Services,1160,TRUE,TRUE
+Education and Health,Health Support Services,Counselling and Advice Services,6530,TRUE,TRUE
+Education and Health,"Primary, Secondary and Tertiary Education",Unspecified and Other Schools,74,TRUE,FALSE
+Education and Health,"Primary, Secondary and Tertiary Education",Pupil Referral Units,196,TRUE,TRUE
+Education and Health,"Primary, Secondary and Tertiary Education",Higher Education Establishments,766,TRUE,TRUE
+Education and Health,"Primary, Secondary and Tertiary Education",Further Education Establishments,1270,TRUE,TRUE
+Education and Health,"Primary, Secondary and Tertiary Education",Independent and Preparatory Schools,1920,TRUE,TRUE
+Education and Health,"Primary, Secondary and Tertiary Education",Special Schools and Colleges,2028,TRUE,TRUE
+Education and Health,"Primary, Secondary and Tertiary Education",Broad Age Range and Secondary State Schools,4067,TRUE,TRUE
+Education and Health,"Primary, Secondary and Tertiary Education","First, Primary and Infant Schools",19854,TRUE,TRUE
+Education and Health,Recreational and Vocational Education,Diving Schools,117,TRUE,TRUE
+Education and Health,Recreational and Vocational Education,Sailing Schools,164,TRUE,TRUE
+Education and Health,Recreational and Vocational Education,Flying Schools,260,TRUE,TRUE
+Education and Health,Recreational and Vocational Education,Beauty and Hairdressing Schools,315,TRUE,TRUE
+Education and Health,Recreational and Vocational Education,First Aid Training,669,TRUE,TRUE
+Education and Health,Recreational and Vocational Education,Language Schools,804,TRUE,TRUE
+Education and Health,Recreational and Vocational Education,Drama Schools,1126,TRUE,TRUE
+Education and Health,Recreational and Vocational Education,Martial Arts Instruction,1551,TRUE,TRUE
+Education and Health,Recreational and Vocational Education,Music Teachers and Schools,1970,TRUE,TRUE
+Education and Health,Recreational and Vocational Education,Ballet and Dance Schools,2573,TRUE,TRUE
+Education and Health,Recreational and Vocational Education,Sports and Fitness Coaching,2600,TRUE,TRUE
+Education and Health,Recreational and Vocational Education,Driving and Motorcycle Schools,6818,TRUE,TRUE
+Education and Health,Recreational and Vocational Education,Training Providers and Centres,9517,TRUE,TRUE
+Education and Health,Recreational and Vocational Education,Nursery Schools and Pre and After School Care,18509,TRUE,TRUE
+Manufacturing and Production,Consumer Products,Refrigeration and Freezing Appliances,15,TRUE,FALSE
+Manufacturing and Production,Consumer Products,China and Glassware,22,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Brushes,43,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Cutlery and Tableware,46,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Saunas and Sunbeds,51,TRUE,FALSE
+Manufacturing and Production,Consumer Products,"Tents, Marquees and Camping Equipment",54,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Tobacco Products,55,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Lingerie and Hosiery,56,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Disposable Products,83,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Canvas Goods,110,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Leather Products,176,TRUE,FALSE
+Manufacturing and Production,Consumer Products,"Luggage, Bags, Umbrellas and Travel Accessories",184,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Footwear,219,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Candles,222,TRUE,FALSE
+Manufacturing and Production,Consumer Products,"Bathroom Fixtures, Fittings and Sanitary Equipment",230,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Photographic and Optical Equipment,254,TRUE,FALSE
+Manufacturing and Production,Consumer Products,"Baby, Nursery and Playground Equipment",255,TRUE,FALSE
+Manufacturing and Production,Consumer Products,"Cosmetics, Toiletries and Perfumes",295,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Musical Instruments,301,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Cookers and Stoves - Non Electrical,418,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Giftware,570,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Conservatories,608,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Lampshades and Lighting,618,TRUE,FALSE
+Manufacturing and Production,Consumer Products,"Medals, Trophies, Ceremonial and Religious Goods",666,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Fireplaces and Mantelpieces,1073,TRUE,FALSE
+Manufacturing and Production,Consumer Products,"Jewellery, Gems, Clocks and Watches",1089,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Garden Goods,1121,TRUE,FALSE
+Manufacturing and Production,Consumer Products,"Carpets, Flooring, Rugs and Soft Furnishings",1227,TRUE,FALSE
+Manufacturing and Production,Consumer Products,"Hobby, Sports and Pastime Products",1381,TRUE,FALSE
+Manufacturing and Production,Consumer Products,"Clothing, Components and Accessories",2045,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Beds and Bedding,2067,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Furniture,3235,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Curtains and Blinds,3468,TRUE,FALSE
+Manufacturing and Production,Consumer Products,Disability and Mobility Equipment,4548,TRUE,FALSE
+Manufacturing and Production,Extractive Industries,Coal Mining,146,TRUE,FALSE
+Manufacturing and Production,Extractive Industries,"Oil and Gas Extraction, Refinery and Product Manufacture",202,TRUE,FALSE
+Manufacturing and Production,Extractive Industries,Ore Mining,361,TRUE,FALSE
+Manufacturing and Production,Extractive Industries,"Sand, Gravel and Clay Extraction and Merchants",629,TRUE,FALSE
+Manufacturing and Production,Extractive Industries,Stone Quarrying and Preparation,1597,TRUE,FALSE
+Manufacturing and Production,Extractive Industries,Unspecified Quarries Or Mines,38089,TRUE,FALSE
+Manufacturing and Production,Farming,Bee Keepers,70,TRUE,FALSE
+Manufacturing and Production,Farming,Fish and Shellfish,253,TRUE,FALSE
+Manufacturing and Production,Farming,Horse Breeders and Dealers,281,TRUE,FALSE
+Manufacturing and Production,Farming,Forestry,728,TRUE,FALSE
+Manufacturing and Production,Farming,"Fruit, Flower and Vegetable Growers",1237,TRUE,FALSE
+Manufacturing and Production,Farming,"Poultry Farming, Equipment and Supplies",2393,TRUE,FALSE
+Manufacturing and Production,Farming,Animal Breeders (Not Horses),2468,TRUE,FALSE
+Manufacturing and Production,Farming,Livestock Farming,3321,TRUE,FALSE
+Manufacturing and Production,Farming,Dairy Farming,3945,TRUE,FALSE
+Manufacturing and Production,Farming,Arable Farming,3987,TRUE,FALSE
+Manufacturing and Production,Farming,Mixed Or Unspecified Farming,14492,TRUE,FALSE
+Manufacturing and Production,Foodstuffs,Non Alcoholic Drinks,189,TRUE,FALSE
+Manufacturing and Production,Foodstuffs,"Milling, Refining and Food Additives",247,TRUE,FALSE
+Manufacturing and Production,Foodstuffs,Dairy Products,531,TRUE,FALSE
+Manufacturing and Production,Foodstuffs,"Animal Feeds, Pet Foods, Hay and Straw",1230,TRUE,FALSE
+Manufacturing and Production,Foodstuffs,Alcoholic Drinks,1249,TRUE,FALSE
+Manufacturing and Production,Foodstuffs,"Fish, Meat and Poultry Products",1954,TRUE,FALSE
+Manufacturing and Production,Foodstuffs,Catering and Non Specific Food Products,2275,TRUE,FALSE
+Manufacturing and Production,Foodstuffs,Baking and Confectionery,2913,TRUE,FALSE
+Manufacturing and Production,Industrial Features,Pipelines,48,FALSE,FALSE
+Manufacturing and Production,Industrial Features,Oast Houses,2017,TRUE,FALSE
+Manufacturing and Production,Industrial Features,Lime Kilns,2618,TRUE,FALSE
+Manufacturing and Production,Industrial Features,Business Parks and Industrial Estates,10956,TRUE,FALSE
+Manufacturing and Production,Industrial Features,Energy Production,24562,FALSE,FALSE
+Manufacturing and Production,Industrial Features,Unspecified Works Or Factories,26974,TRUE,FALSE
+Manufacturing and Production,Industrial Features,Water Pumping Stations,33828,FALSE,FALSE
+Manufacturing and Production,Industrial Products,Ice,31,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Beekeeping Supplies,32,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Fertilisers,67,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Pesticides,118,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Lubricants and Lubricating Equipment,122,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Electronic Media,126,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Road Maintenance Equipment,131,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Abrasive Products and Grinding Equipment,141,TRUE,FALSE
+Manufacturing and Production,Industrial Products,"Ropes, Nets and Cordage",143,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Engines,184,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Ovens and Furnaces,197,TRUE,FALSE
+Manufacturing and Production,Industrial Products,"Moulds, Dies and Castings",198,TRUE,FALSE
+Manufacturing and Production,Industrial Products,General Manufacturing,209,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Car Ports and Steel Buildings,217,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Vehicle Bodybuilders,220,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Glass Fibre Services,238,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Adhesives and Sealants,250,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Educational Equipment and Supplies,259,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Electrical Motors and Generators,379,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Vehicles,387,TRUE,FALSE
+Manufacturing and Production,Industrial Products,"Waste Collection, Processing and Disposal Equipment",396,TRUE,FALSE
+Manufacturing and Production,Industrial Products,"Shelving, Storage, Safes and Vaults",397,TRUE,FALSE
+Manufacturing and Production,Industrial Products,"Paints, Varnishes and Lacquers",409,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Arms and Ammunition,421,TRUE,FALSE
+Manufacturing and Production,Industrial Products,"Bearing, Gear and Drive Elements",422,TRUE,FALSE
+Manufacturing and Production,Industrial Products,"Seals, Tapes, Taps and Valves",448,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Aeroplanes,457,TRUE,FALSE
+Manufacturing and Production,Industrial Products,"Bricks, Tiles, Clay and Ceramic Products",469,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Horticultural Equipment,486,TRUE,FALSE
+Manufacturing and Production,Industrial Products,"Cable, Wire and Fibre Optics",491,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Access Equipment,536,TRUE,FALSE
+Manufacturing and Production,Industrial Products,"Stationery, Stamps, Tags and Labels",540,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Electrical Production and Manipulation Equipment,598,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Pumps and Compressors,728,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Workwear,757,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Printing Related Machinery,834,TRUE,FALSE
+Manufacturing and Production,Industrial Products,General Purpose Machinery,843,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Glass,872,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Air and Water Filtration,880,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Marine Equipment Including Boats and Ships,977,TRUE,FALSE
+Manufacturing and Production,Industrial Products,"Fences, Gates and Railings",983,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Radar and Telecommunications Equipment,1025,TRUE,FALSE
+Manufacturing and Production,Industrial Products,"Colours, Chemicals and Water Softeners and Supplies",1053,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Cleaning Equipment and Supplies,1139,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Cooling and Refrigeration,1200,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Concrete Products,1336,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Electrical Components,1364,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Lifting and Handling Equipment,1566,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Agricultural Machinery and Goods,1611,TRUE,FALSE
+Manufacturing and Production,Industrial Products,"Textiles, Fabrics, Silk and Machinery",1719,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Tools Including Machine Shops,1719,TRUE,FALSE
+Manufacturing and Production,Industrial Products,"Wood Products Including Charcoal, Paper, Card and Board",1817,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Measurement and Inspection Equipment,1838,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Food and Beverage Industry Machinery,1855,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Vehicle Components,2026,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Industrial Coatings and Finishings,2135,TRUE,FALSE
+Manufacturing and Production,Industrial Products,"Rubber, Silicones and Plastics",2191,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Packaging,2314,TRUE,FALSE
+Manufacturing and Production,Industrial Products,"Metals Manufacturers, Fabricators and Stockholders",2566,TRUE,FALSE
+Manufacturing and Production,Industrial Products,"Medical Equipment, Supplies and Pharmaceuticals",2574,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Special Purpose Machinery and Equipment,2624,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Office and Shop Equipment,2712,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Signs,3192,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Electronic Equipment,5928,TRUE,FALSE
+Manufacturing and Production,Industrial Products,General Construction Supplies,7366,TRUE,FALSE
+Manufacturing and Production,Industrial Products,Published Goods,9076,TRUE,FALSE
+Public Infrastructure,Central and Local Government,Tribunals,3,TRUE,FALSE
+Public Infrastructure,Central and Local Government,Foreign Country Support Activities,25,TRUE,FALSE
+Public Infrastructure,Central and Local Government,Revenue and Customs Offices,28,TRUE,FALSE
+Public Infrastructure,Central and Local Government,Prisons,145,TRUE,TRUE
+Public Infrastructure,Central and Local Government,Registrars Offices,322,TRUE,TRUE
+Public Infrastructure,Central and Local Government,Embassies and Consulates,359,TRUE,TRUE
+Public Infrastructure,Central and Local Government,Probation Offices and Police Support Services,381,TRUE,TRUE
+Public Infrastructure,Central and Local Government,Consular Services,409,TRUE,TRUE
+Public Infrastructure,Central and Local Government,"Courts, Court Services and Tribunals",410,TRUE,TRUE
+Public Infrastructure,Central and Local Government,Members Of Parliament and Members Of European Parliament,474,FALSE,TRUE
+Public Infrastructure,Central and Local Government,Central Government,485,TRUE,TRUE
+Public Infrastructure,Central and Local Government,Driving Test Centres,528,TRUE,TRUE
+Public Infrastructure,Central and Local Government,Job Centres,859,TRUE,TRUE
+Public Infrastructure,Central and Local Government,Police Stations,1171,TRUE,TRUE
+Public Infrastructure,Central and Local Government,Coastal Safety,1617,TRUE,TRUE
+Public Infrastructure,Central and Local Government,Armed Services,1789,TRUE,TRUE
+Public Infrastructure,Central and Local Government,Fire Brigade Stations,1901,TRUE,TRUE
+Public Infrastructure,Central and Local Government,Local Government,2605,TRUE,TRUE
+Public Infrastructure,Central and Local Government,Social Service Activities,5511,TRUE,TRUE
+Public Infrastructure,Infrastructure and Facilities,Refuse Disposal Facilities,1009,TRUE,TRUE
+Public Infrastructure,Infrastructure and Facilities,Recycling Centres,1090,TRUE,TRUE
+Public Infrastructure,Infrastructure and Facilities,Meteorological Features,1131,FALSE,FALSE
+Public Infrastructure,Infrastructure and Facilities,Utility Companies and Brokers,1579,TRUE,FALSE
+Public Infrastructure,Infrastructure and Facilities,Drinking Fountains and Water Points,1917,FALSE,TRUE
+Public Infrastructure,Infrastructure and Facilities,Telecommunications Companies,1958,TRUE,FALSE
+Public Infrastructure,Infrastructure and Facilities,Libraries,3390,TRUE,TRUE
+Public Infrastructure,Infrastructure and Facilities,Public Toilets,8919,FALSE,TRUE
+Public Infrastructure,Infrastructure and Facilities,Cemeteries and Crematoria,9026,FALSE,TRUE
+Public Infrastructure,Infrastructure and Facilities,Allotments,12835,FALSE,TRUE
+Public Infrastructure,Infrastructure and Facilities,Gas Features,14317,FALSE,FALSE
+Public Infrastructure,Infrastructure and Facilities,Wifi Hotspots,20437,FALSE,TRUE
+Public Infrastructure,Infrastructure and Facilities,Halls and Community Centres,20996,TRUE,TRUE
+Public Infrastructure,Infrastructure and Facilities,"Waste Storage, Processing and Disposal",30036,TRUE,TRUE
+Public Infrastructure,Infrastructure and Facilities,Telecommunications Features,33313,FALSE,FALSE
+Public Infrastructure,Infrastructure and Facilities,Places Of Worship,49389,FALSE,TRUE
+Public Infrastructure,Infrastructure and Facilities,Letter Boxes,94966,FALSE,TRUE
+Public Infrastructure,Infrastructure and Facilities,Electrical Features,311913,FALSE,FALSE
+Public Infrastructure,Organisations,Conservation Organisations,391,TRUE,TRUE
+Public Infrastructure,Organisations,Political Parties and Related Organisations,486,TRUE,TRUE
+Public Infrastructure,Organisations,Fan Clubs and Associations,622,TRUE,TRUE
+Public Infrastructure,Organisations,Animal Welfare Organisations,637,TRUE,TRUE
+Public Infrastructure,Organisations,Community Networks and Projects,2070,TRUE,TRUE
+Public Infrastructure,Organisations,Religious Organisations,3098,TRUE,TRUE
+Public Infrastructure,Organisations,Institutes and Professional Organisations,3219,TRUE,TRUE
+Public Infrastructure,Organisations,Youth Organisations,4901,TRUE,TRUE
+Public Infrastructure,Organisations,Sports Clubs and Associations,5557,TRUE,TRUE
+Public Infrastructure,Organisations,Charitable Organisations,13030,TRUE,TRUE
+Retail,Clothing and Accessories,Lingerie and Hosiery,772,TRUE,TRUE
+Retail,Clothing and Accessories,Baby and Nursery Equipment and Children'S Clothes,2476,TRUE,TRUE
+Retail,Clothing and Accessories,Footwear,3863,TRUE,TRUE
+Retail,Clothing and Accessories,Jewellery and Fashion Accessories,9446,TRUE,TRUE
+Retail,Clothing and Accessories,Clothing,27318,TRUE,TRUE
+Retail,"Food, Drink and Multi Item Retail",Herbs and Spices,91,TRUE,FALSE
+Retail,"Food, Drink and Multi Item Retail",Livestock Markets,163,TRUE,TRUE
+Retail,"Food, Drink and Multi Item Retail",Green and New Age Goods,361,TRUE,TRUE
+Retail,"Food, Drink and Multi Item Retail",Tea and Coffee Merchants,466,TRUE,TRUE
+Retail,"Food, Drink and Multi Item Retail",Markets,744,TRUE,TRUE
+Retail,"Food, Drink and Multi Item Retail",Fishmongers,855,TRUE,TRUE
+Retail,"Food, Drink and Multi Item Retail",Cash and Carry,1046,TRUE,TRUE
+Retail,"Food, Drink and Multi Item Retail",Frozen Foods,2361,TRUE,TRUE
+Retail,"Food, Drink and Multi Item Retail",Delicatessens,2744,TRUE,TRUE
+Retail,"Food, Drink and Multi Item Retail",Confectioners,2781,TRUE,TRUE
+Retail,"Food, Drink and Multi Item Retail","Organic, Health, Gourmet and Kosher Foods",2925,TRUE,TRUE
+Retail,"Food, Drink and Multi Item Retail",Alcoholic Drinks Including Off Licences and Wholesalers,5488,TRUE,TRUE
+Retail,"Food, Drink and Multi Item Retail",Butchers,5892,TRUE,TRUE
+Retail,"Food, Drink and Multi Item Retail","Grocers, Farm Shops and Pick Your Own",7790,TRUE,TRUE
+Retail,"Food, Drink and Multi Item Retail",Supermarket Chains,8097,TRUE,TRUE
+Retail,"Food, Drink and Multi Item Retail",Bakeries,9630,TRUE,TRUE
+Retail,"Food, Drink and Multi Item Retail",Convenience Stores and Independent Supermarkets,53763,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Adult Shops,86,TRUE,FALSE
+Retail,"Household, Office, Leisure and Garden",Comics Bookshops,111,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",China and Glassware,137,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Surplus Goods,182,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Potteries,224,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Computer Supplies,445,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Music and Video,462,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Photographic and Optical Equipment,548,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Lighting,568,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden","Leather Goods, Luggage and Travel Accessories Including Handbags",577,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Party Goods and Novelties,681,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Camping and Caravanning,722,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Musical Instruments,808,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Secondhand Goods,838,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Computer Shops,935,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Garden Machinery and Furniture,1105,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Mail Order and Catalogue Stores,1146,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Craft Supplies,1249,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden","Garages, Garden and Portable Buildings",1548,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Fuel Distributors and Suppliers,1554,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Domestic Appliances,1573,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Books and Maps,1708,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",General Household Goods,1812,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Stationery and Office Supplies,2153,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Cycles and Accessories,2200,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Electrical Goods and Components,2494,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Art and Antiques,2507,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Department Stores,2568,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Shopping Centres and Retail Parks,2695,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Furniture,3289,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Garden Centres and Nurseries,3412,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Telephones and Telephone Cards,4009,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Discount Stores,4121,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden","Cosmetics, Toiletries, Perfumes and Hairdressing Supplies",4657,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden","Pets, Supplies and Services",4674,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Florists,4698,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Travel Agencies,5370,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Gifts and Cards,5476,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden","Carpets, Rugs, Soft Furnishings and Needlecraft",7730,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden","Hobby, Sports and Pastime Products",8757,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Charity Shops,9344,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Post Offices,10826,TRUE,TRUE
+Retail,"Household, Office, Leisure and Garden",Diy and Home Improvement,22333,TRUE,TRUE
+Retail,Motoring,Vehicle Auctions,90,TRUE,FALSE
+Retail,Motoring,Secondhand Vehicles,5699,TRUE,TRUE
+Retail,Motoring,New Vehicles,6730,TRUE,TRUE
+Retail,Motoring,Vehicle Parts and Accessories,8399,TRUE,TRUE
+Sport and Entertainment,Gambling,Casinos,259,TRUE,TRUE
+Sport and Entertainment,Gambling,Bingo Halls,374,TRUE,TRUE
+Sport and Entertainment,Gambling,Amusement Parks and Arcades,2517,TRUE,TRUE
+Sport and Entertainment,Gambling,Bookmakers,7699,TRUE,TRUE
+Sport and Entertainment,Outdoor Pursuits,Parachuting and Bungee Jumping,21,TRUE,FALSE
+Sport and Entertainment,Outdoor Pursuits,Hot Air Ballooning,27,TRUE,FALSE
+Sport and Entertainment,Outdoor Pursuits,Paragliding and Hang Gliding,35,TRUE,FALSE
+Sport and Entertainment,Outdoor Pursuits,"Combat, Laser and Paintball Games",434,TRUE,TRUE
+Sport and Entertainment,Outdoor Pursuits,Angling and Sports Fishing,548,FALSE,TRUE
+Sport and Entertainment,Outdoor Pursuits,Watersports,569,TRUE,TRUE
+Sport and Entertainment,Outdoor Pursuits,Outdoor Pursuit Organisers and Equipment,802,TRUE,TRUE
+Sport and Entertainment,Outdoor Pursuits,"Riding Schools, Livery Stables and Equestrian Centres",1692,TRUE,TRUE
+Sport and Entertainment,Sport and Entertainment Support Services,Funfair Services,12,TRUE,FALSE
+Sport and Entertainment,Sport and Entertainment Support Services,Firework Related Services,69,TRUE,FALSE
+Sport and Entertainment,Sport and Entertainment Support Services,Motorsport Services,389,TRUE,TRUE
+Sport and Entertainment,Sport and Entertainment Support Services,Children'S Activity Centres,1110,TRUE,TRUE
+Sport and Entertainment,Sport and Entertainment Support Services,Mobile Discos,1231,TRUE,TRUE
+Sport and Entertainment,Sport and Entertainment Support Services,Entertainment Services,6486,TRUE,TRUE
+Sport and Entertainment,Sports Complex,Velodromes,20,TRUE,FALSE
+Sport and Entertainment,Sports Complex,Ice Rinks,82,TRUE,FALSE
+Sport and Entertainment,Sports Complex,Climbing Facilities,124,TRUE,TRUE
+Sport and Entertainment,Sports Complex,Ski Infrastructure and Aerial Cableways,181,TRUE,TRUE
+Sport and Entertainment,Sports Complex,Racecourses and Greyhound Tracks,256,TRUE,TRUE
+Sport and Entertainment,Sports Complex,Squash Courts,379,TRUE,TRUE
+Sport and Entertainment,Sports Complex,Motorsport Venues,532,TRUE,TRUE
+Sport and Entertainment,Sports Complex,Snooker and Pool Halls,558,TRUE,TRUE
+Sport and Entertainment,Sports Complex,Athletics Facilities,670,TRUE,TRUE
+Sport and Entertainment,Sports Complex,Swimming Pools,1674,TRUE,TRUE
+Sport and Entertainment,Sports Complex,"Golf Ranges, Courses, Clubs and Professionals",2605,TRUE,TRUE
+Sport and Entertainment,Sports Complex,Bowling Facilities,6052,TRUE,TRUE
+Sport and Entertainment,Sports Complex,Shooting Facilities,8251,TRUE,TRUE
+Sport and Entertainment,Sports Complex,Tennis Facilities,17350,TRUE,TRUE
+Sport and Entertainment,Sports Complex,"Sports Grounds, Stadia and Pitches",23049,TRUE,TRUE
+Sport and Entertainment,Sports Complex,"Gymnasiums, Sports Halls and Leisure Centres",25833,TRUE,TRUE
+Sport and Entertainment,"Venues, Stage and Screen",Adult Venues,99,TRUE,TRUE
+Sport and Entertainment,"Venues, Stage and Screen",Conference and Exhibition Centres,630,TRUE,TRUE
+Sport and Entertainment,"Venues, Stage and Screen",Cinemas,841,TRUE,TRUE
+Sport and Entertainment,"Venues, Stage and Screen",Nightclubs,1296,TRUE,TRUE
+Sport and Entertainment,"Venues, Stage and Screen",Theatres and Concert Halls,1466,TRUE,TRUE
+Sport and Entertainment,"Venues, Stage and Screen",Social Clubs,6555,TRUE,TRUE
+Transport,Air,Airports and Landing Strips,598,TRUE,FALSE
+Transport,Air,Helipads,745,TRUE,FALSE
+Transport,Bus Transport,Hail and Ride Zones,12195,FALSE,TRUE
+Transport,Bus Transport,Bus Stops,361472,FALSE,TRUE
+Transport,"Public Transport, Stations and Infrastructure",Underground Network Stations,273,FALSE,TRUE
+Transport,"Public Transport, Stations and Infrastructure","Tram, Metro and Light Railway Stations and Stops",472,FALSE,TRUE
+Transport,"Public Transport, Stations and Infrastructure",London Underground Entrances,609,FALSE,TRUE
+Transport,"Public Transport, Stations and Infrastructure",Taxi Ranks,874,FALSE,TRUE
+Transport,"Public Transport, Stations and Infrastructure","Bus and Coach Stations, Depots and Companies",1325,FALSE,TRUE
+Transport,"Public Transport, Stations and Infrastructure","Railway Stations, Junctions and Halts",2605,FALSE,TRUE
+Transport,Road and Rail,Motorway Service Stations,112,TRUE,FALSE
+Transport,Road and Rail,Signalling Facilities,984,FALSE,FALSE
+Transport,Road and Rail,Viaducts,1217,FALSE,FALSE
+Transport,Road and Rail,Petrol and Fuel Stations,6511,FALSE,TRUE
+Transport,Road and Rail,Weighbridges,9926,FALSE,FALSE
+Transport,Road and Rail,Cattle Grids,42919,FALSE,FALSE
+Transport,Road and Rail,Parking,47306,FALSE,FALSE
+Transport,Road and Rail,Fords and Level Crossings,50732,FALSE,FALSE
+Transport,Road and Rail,Bridges,82917,FALSE,FALSE
+Transport,Walking,Footbridges,169181,FALSE,FALSE
+Transport,Water,Rivers and Canal Organisations and Infrastructure,76,FALSE,FALSE
+Transport,Water,Aqueducts,591,FALSE,FALSE
+Transport,Water,Ferries and Ferry Terminals,811,FALSE,FALSE
+Transport,Water,Locks,2061,FALSE,FALSE
+Transport,Water,Moorings and Unloading Facilities,16003,FALSE,FALSE
+Transport,Water,"Weirs, Sluices and Dams",39847,FALSE,FALSE
