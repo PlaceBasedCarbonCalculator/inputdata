@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+population/census2021EW_RefPerson_NSSEC10_Houshold15_LSOA_partial.csv
+population/census2021EW_RefPerson_NSSEC10_Houshold15_MSOA_partial.csv
+population/census2021EW_Resdidents_NSSEC10_Ethnicity_LSOA_partial.csv
+osm/united-kingdom-latest.gpkg
+osm/united-kingdom-latest.osm.pbf
