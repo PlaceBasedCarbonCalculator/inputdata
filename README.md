@@ -22,7 +22,7 @@ This table give a brief overview of the main types of data source.
 | consumption  | DESNZ Consumption Footprints  |
 | council_tax_scotland  | Scotland Council Tax Data |
 | emission_factors  | DESNZ Emission Factors |
-| epc  | Energy PErformance Certificates  |
+| epc  | Energy Performance Certificates  |
 | gas_electric  | DESNZ Gas and Electricity Data  |
 | house_price_age  | House Price Data   |
 | income  |  ONS Income Data |
