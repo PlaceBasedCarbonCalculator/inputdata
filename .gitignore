@@ -87,3 +87,14 @@ boundaries/Wards_May_2024_Boundaries_UK_BFE_-4458353988245060602.gpkg
 boundaries/Westminster_Parliamentary_Constituencies_Dec_2022_UK_BFC_8233416892985902015.gpkg
 boundaries/Westminster_Parliamentary_Constituencies_July_2024_Boundaries_UK_BFC_-6236279356162627018.gpkg
 boundaries/Output_Areas_Dec_2001_Boundaries_EW_BFC_2022_1709495032765696690.zip
+epc/all-display-certificates-single-file-20240630.zip
+epc/all-domestic-certificates-single-file-20240630.zip
+epc/all-non-domestic-certificates-single-file-20240630.zip
+epc/epc_domestic_clean.Rds
+epc/epc_nondomestic_clean.Rds
+epc/epc_scotland_domestic_clean.Rds
+epc/epc_scotland_nondomestic_clean.Rds
+epc/GB_domestic_epc.Rds
+epc/GB_nondomestic_epc.Rds
+epc/Scotland_Domestic_EPC_data_2014-2024Q2.zip
+epc/Scotland_NonDomestic_EPC_data_2014-2024Q2.zip
