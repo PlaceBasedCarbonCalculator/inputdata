@@ -44,7 +44,9 @@ This table give a brief overview of the main types of data source.
 | vehicle_registrations  | DfT/DVLA data on vehicle registrations  |
 | voa  | Valuation Office Agency data  |
 
+## Large Files
 
+Individual files over 100 MB are too large for the GitHub Repo. Many GIS datasets exceed this size and so files that are > 100 MB and < 2GB are provided on the [releases](https://github.com/PlaceBasedCarbonCalculator/inputdata/releases) page. 
 
 ## Licence
 
