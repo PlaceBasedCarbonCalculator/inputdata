@@ -1,0 +1,22 @@
+SuperWEB2(tm)
+
+"Household"
+"Type of accomodation - 3 groups, collapsed by Type of accomodation"
+"Counting: Households"
+
+Filters:
+"Default Summation","Households"
+
+"Type of accomodation","Whole house or bungalow: Detached","Whole house or bungalow: Semi-detached","Whole house or bungalow: Terraced (including end-terrace)","Flat, maisonette or apartment: Purpose-built block of flats or tenement","Flat, maisonette or apartment: Part of a converted or shared house (including bed-sits)","Flat, maisonette or apartment: In a commercial building","Caravan or other mobile or temporary structure","Total",
+"Type of accomodation - 3 groups, collapsed",
+"Whole house or bungalow",600690,584773,457322,0,0,0,0,1642782,
+"Flat, maisonette or apartment",0,0,0,813502,39262,9635,0,862395,
+"Caravan or other mobile or temporary structure",0,0,0,0,0,0,4092,4092,
+"Total",600690,584773,457322,813502,39262,9635,4092,2509269,
+
+"Dataset: <a href=""https://www.scotlandscensus.gov.uk/about/2022-census/statistical-methodology/statistical-disclosure-control/"">Privacy controls</a> are applied to all census tables.<br/> Our <a href=""https://www.scotlandscensus.gov.uk/about/2022-census/flexible-table-builder-user-guide/"">user guide</a> are applied to all census tables.<br/> Check our <a href=""https://www.scotlandscensus.gov.uk/about/2022-census/working-with-census-statistics/"">tips</a> on making comparisons with census data."
+
+"INFO","Cells in this table have been randomly adjusted to avoid the release of confidential data."
+
+
+(c) Copyright WingArc Australia 2018
